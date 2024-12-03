@@ -1,14 +1,12 @@
-package com.tecvinsonacademy.cqrs_sample_project.items.commands;
+package com.tecvinsonacademy.cqrssampleproject.items.commands;
 
-import com.tecvinsonacademy.cqrs_sample_project.mediator.CommandHandler;
+import com.tecvinsonacademy.cqrssampleproject.mediator.CommandHandler;
 import org.springframework.stereotype.Component;
 
 @Component
 public class CreateItemCommandHandler implements CommandHandler<CreateItemCommand> {
 
-
     public CreateItemCommandHandler() {
-
     }
 
     @Override

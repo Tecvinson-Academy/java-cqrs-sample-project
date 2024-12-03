@@ -1,4 +1,4 @@
-package com.tecvinsonacademy.cqrs_sample_project;
+package com.tecvinsonacademy.cqrssampleproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

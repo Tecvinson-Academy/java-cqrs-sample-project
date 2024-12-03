@@ -1,8 +1,8 @@
-package com.tecvinsonacademy.cqrs_sample_project.items;
+package com.tecvinsonacademy.cqrssampleproject.items;
 
-import com.tecvinsonacademy.cqrs_sample_project.items.commands.CreateItemCommand;
-import com.tecvinsonacademy.cqrs_sample_project.mediator.Mediator;
-import com.tecvinsonacademy.cqrs_sample_project.items.queries.GetItemsQuery;
+import com.tecvinsonacademy.cqrssampleproject.items.commands.CreateItemCommand;
+import com.tecvinsonacademy.cqrssampleproject.mediator.Mediator;
+import com.tecvinsonacademy.cqrssampleproject.items.queries.GetItemsQuery;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 

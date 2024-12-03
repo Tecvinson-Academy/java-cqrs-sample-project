@@ -1,6 +1,6 @@
-package com.tecvinsonacademy.cqrs_sample_project.items.events;
+package com.tecvinsonacademy.cqrssampleproject.items.events;
 
-import com.tecvinsonacademy.cqrs_sample_project.mediator.Event;
+import com.tecvinsonacademy.cqrssampleproject.mediator.Event;
 import org.springframework.stereotype.Component;
 
 @Component

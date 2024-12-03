@@ -1,7 +1,7 @@
-package com.tecvinsonacademy.cqrs_sample_project.items.events;
+package com.tecvinsonacademy.cqrssampleproject.items.events;
 
-import com.tecvinsonacademy.cqrs_sample_project.config.RabbitMQConfig;
-import com.tecvinsonacademy.cqrs_sample_project.mediator.EventHandler;
+import com.tecvinsonacademy.cqrssampleproject.config.RabbitMQConfig;
+import com.tecvinsonacademy.cqrssampleproject.mediator.EventHandler;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.stereotype.Component;
 

@@ -1,6 +1,5 @@
-package com.tecvinsonacademy.cqrs_sample_project.mediator;
+package com.tecvinsonacademy.cqrssampleproject.mediator;
 
-import com.tecvinsonacademy.cqrs_sample_project.mediator.*;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;

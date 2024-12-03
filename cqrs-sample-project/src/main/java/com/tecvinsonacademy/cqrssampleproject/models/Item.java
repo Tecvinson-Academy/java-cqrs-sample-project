@@ -1,4 +1,4 @@
-package com.tecvinsonacademy.cqrs_sample_project.models;
+package com.tecvinsonacademy.cqrssampleproject.models;
 
 public class Item {
     private String name = "";

@@ -1,4 +1,4 @@
-package com.tecvinsonacademy.cqrs_sample_project.config;
+package com.tecvinsonacademy.cqrssampleproject.config;
 
 import org.springframework.amqp.core.*;
 import org.springframework.context.annotation.Bean;

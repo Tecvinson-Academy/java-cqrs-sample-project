@@ -1,4 +1,4 @@
-package com.tecvinsonacademy.cqrs_sample_project;
+package com.tecvinsonacademy.cqrssampleproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

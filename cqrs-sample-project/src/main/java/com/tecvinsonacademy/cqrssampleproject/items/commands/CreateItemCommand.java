@@ -1,6 +1,6 @@
-package com.tecvinsonacademy.cqrs_sample_project.items.commands;
+package com.tecvinsonacademy.cqrssampleproject.items.commands;
 
-import com.tecvinsonacademy.cqrs_sample_project.mediator.Command;
+import com.tecvinsonacademy.cqrssampleproject.mediator.Command;
 import org.springframework.stereotype.Component;
 
 @Component

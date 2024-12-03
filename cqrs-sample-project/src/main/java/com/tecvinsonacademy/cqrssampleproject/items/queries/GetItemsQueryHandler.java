@@ -1,6 +1,6 @@
-package com.tecvinsonacademy.cqrs_sample_project.items.queries;
+package com.tecvinsonacademy.cqrssampleproject.items.queries;
 
-import com.tecvinsonacademy.cqrs_sample_project.mediator.QueryHandler;
+import com.tecvinsonacademy.cqrssampleproject.mediator.QueryHandler;
 import org.springframework.stereotype.Component;
 import java.util.Arrays;
 import java.util.List;
